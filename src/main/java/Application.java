@@ -12,5 +12,6 @@ public class Application {
         System.out.println("在GitHub添加的的");
         System.out.println("在GitHub添加的的的");
         System.out.println("在GitHub添加的的的的");
+        System.out.println("在GitHub添加的的的的的");
     }
 }
